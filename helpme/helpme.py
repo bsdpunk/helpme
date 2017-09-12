@@ -1,3 +1,4 @@
-def hello():
-  print "Hello World."
-  return
+class Greetings(object):
+    def hello(self):
+        print "Hello World."
+        return
