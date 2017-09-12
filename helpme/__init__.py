@@ -1,0 +1,2 @@
+import helpme
+helpme.hello()
